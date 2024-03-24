@@ -6,7 +6,13 @@
 |k21-4713|Khush Bakht Aleeza|
 |k21-3056|Ahmed Raza|
 ## Output Screenshots
-//-- Add output screenshots here. --//
+
+![All_outputs](https://github.com/NUCES-Khi/matrixtimesvector-team-0101/assets/125374283/9ce36b56-895e-4657-9a89-ea16a961546d)
+
+![seq](https://github.com/NUCES-Khi/matrixtimesvector-team-0101/assets/125374283/b2c2f0b0-22e9-413c-a851-4d04fb5399b7)
+
+
+
 ## Results and Analysis
 //-- Show graphs results and charts where necessary and discuss the results and what they signify. --// 
 ## Major Problems Encountered
