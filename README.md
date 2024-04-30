@@ -10,4 +10,4 @@
 Status: **COMPLETED**
 
 ## Assignment 2 ##
-Status: **Not assigned yet**
+Status: **COMPLETED**
